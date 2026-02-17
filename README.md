@@ -83,6 +83,4 @@ Files of interest
 - `docker-compose.localstack.yml` — LocalStack compose file for local S3 emulation.
 
 License & Contact
-- MIT-style usage (add your preferred license).
-- Questions or customizations — open an issue or contact the maintainer.
-
+- Public
