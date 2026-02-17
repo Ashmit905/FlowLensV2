@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  localstack:
+    image: localstack/localstack:1.4
+    ports:
+      - "4566:4566"
+      - "4571:4571"
+    environment:
+      - SERVICES=s3
+      - DEFAULT_REGION=ca-central-1
+      - DATA_DIR=/tmp/localstack/data
+    volumes:
+      - ./localstack_data:/tmp/localstack
+      - /var/run/docker.sock:/var/run/docker.sock
+
+# Usage:
+# docker compose -f docker-compose.localstack.yml up
+# Then create the bucket and apply CORS via AWS CLI with --endpoint-url http://localhost:4566
