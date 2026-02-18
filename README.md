@@ -1,5 +1,8 @@
 # FlowLens
 
+https://media.licdn.com/dms/image/v2/D4E22AQHHt2nlWz6n6A/feedshare-shrink_800/B4EZxuliGyJYAg-/0/1771381860117?e=1773273600&v=beta&t=JJ4HLsDsK3ZEmx3zQ8F_-y8wKYaigT9ftJ2tEYoLeuA<img width="800" height="434" alt="image" src="https://github.com/user-attachments/assets/115be807-f48d-4b3a-8b40-98d4c945b677" />
+
+
 
 
 Interactive linked-list visualizer and teaching app (React + FastAPI).
