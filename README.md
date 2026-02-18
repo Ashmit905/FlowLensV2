@@ -1,6 +1,7 @@
 # FlowLens
 
-https://media.licdn.com/dms/image/v2/D4E22AQHHt2nlWz6n6A/feedshare-shrink_800/B4EZxuliGyJYAg-/0/1771381860117?e=1773273600&v=beta&t=JJ4HLsDsK3ZEmx3zQ8F_-y8wKYaigT9ftJ2tEYoLeuA<img width="800" height="434" alt="image" src="https://github.com/user-attachments/assets/7801038c-4738-4ce2-a0de-eebd2fab63fd" />
+<img width="2388" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb46ed92-a8a0-41a6-85d9-87d63a173ea6" />
+
 
 
 
